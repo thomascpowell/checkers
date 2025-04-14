@@ -1,0 +1,4 @@
+Run:
+```
+java Game.java
+```
