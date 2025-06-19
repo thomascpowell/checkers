@@ -1,8 +1,8 @@
-Java checkers game.
+## A simple CLI checkers game.
 
-Run:
+### Usage:
+- Requires `java`
+- Clone the repo, then run:
 ```
 java Game.java
 ```
-
-Requires: JDK 23
